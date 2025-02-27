@@ -190,7 +190,7 @@ List of the amazing Communities groups in India
 ## :round_pushpin: Bhopal
 ## Open Communities
 | Community Name | website | Type of Community  | Communication Channel | Social Media Link |
-| ------ | ------ | ------ | ------ | ------ |
+| ML Bhopal | https://bhopal.mlcommunity.dev/ | Machine Learning & AI | [Whatsapp](https://chat.whatsapp.com/COGRD8kKYeO9BkQeKnvXW6)  | [@MLBhopal](https://www.instagram.com/mlbhopal/)
 
 ## College Societies
 | Community Name | College Name | website | Type of Community  | Communication Channel | Social Media Link |
